@@ -1,5 +1,9 @@
 # Modern JavaScript Explained for Dinosaurs
 
+### Link to Article:
+
+`https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70`
+
 ## The Birth of JavaScript
 
 JavaScript was created to make web pages interactive. It started out simple but quickly evolved.
