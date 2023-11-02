@@ -1,5 +1,24 @@
 # Server.js File Breakdown
 
+## Installation
+
+1. Clone repo
+2. Run `npm install`
+
+---
+
+Make sure to install express and initialize package.json file
+
+`npm init -y`
+`npm install express`
+
+---
+
+## Usage
+
+1. run `npm run savage`
+2. Navigate to `localhost:3000`
+
 #### Importing Libraries and Initializing Variables
 
 ```js
